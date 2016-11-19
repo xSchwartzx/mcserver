@@ -1,68 +1,349 @@
-[00:04:03] [Server thread/INFO]: <DeusVuIt> bett
-[00:04:08] [Server thread/INFO]: <DeusVuIt> ?(??´)?
-[00:04:10] [Server thread/INFO]: <DeusVuIt> ??(??´)??
-[00:04:14] [Server thread/INFO]: <DeusVuIt> (???´?;)
-[00:04:16] [Server thread/INFO]: <DeusVuIt> ?(?0´)?
-[00:04:18] [Server thread/INFO]: <DeusVuIt> ?\?(?`^´?)?/?
-[00:04:20] [Server thread/INFO]: <DeusVuIt> ?(??´)?
-[00:04:22] [Server thread/INFO]: <DeusVuIt> ?(????´)??
-[00:04:23] [Server thread/INFO]: <DeusVuIt> (???´)?
-[00:04:30] [Server thread/INFO]: <DeusVuIt> w
-[00:04:31] [Server thread/INFO]: <DeusVuIt> dddd
-[00:04:33] [Server thread/INFO]: <DeusVuIt> aaa
-[00:04:35] [Server thread/INFO]: <DeusVuIt> sw
-[00:04:36] [Server thread/INFO]: <DeusVuIt> a
-[00:08:07] [Server thread/INFO]: <DeusVuIt> lawer
-[00:09:46] [Server thread/INFO]: Babason tried to swim in lava
-[00:12:11] [Server thread/INFO]: Babason has just earned the achievement [Bake Bread]
-[00:31:13] [Server thread/INFO]: BurlapDude was slain by Silverfish
-[00:36:22] [Server thread/INFO]: BurlapDude was slain by Silverfish
-[00:36:52] [Server thread/INFO]: <DeusVuIt> was slain by Silverfish
-[00:43:43] [Server thread/WARN]: BurlapDude moved wrongly!
-[00:58:01] [Server thread/INFO]: [BurlapDude: Teleported DeusVuIt to BurlapDude]
-[00:58:14] [Server thread/INFO]: <Babason> zZz
-[00:58:25] [Server thread/INFO]: <Babason> ZET ZET ZET
-[01:02:11] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:02:11] [Server thread/INFO]: Babason left the game
-[01:07:01] [Server thread/INFO]: DeusVuIt has just earned the achievement [Hot Topic]
-[01:09:33] [Server thread/INFO]: [Server] a
-[01:09:36] [Server thread/INFO]: --- Showing help page 1 of 9 (/help <page>) ---
-[01:09:36] [Server thread/INFO]: /achievement <give|take> <name|*> [player]
-[01:09:36] [Server thread/INFO]: /ban <name> [reason ...]
-[01:09:36] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
-[01:09:36] [Server thread/INFO]: /banlist [ips|players]
-[01:09:36] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
-[01:09:36] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
-[01:09:36] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
-[01:09:49] [Server thread/INFO]: --- Showing help page 2 of 9 (/help <page>) ---
-[01:09:49] [Server thread/INFO]: /debug <start|stop>
-[01:09:49] [Server thread/INFO]: /defaultgamemode <mode>
-[01:09:49] [Server thread/INFO]: /deop <player>
-[01:09:49] [Server thread/INFO]: /difficulty <new difficulty>
-[01:09:49] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
-[01:09:49] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
-[01:09:49] [Server thread/INFO]: /entitydata <entity> <dataTag>
-[01:21:29] [Server thread/INFO]: [Server] pupper
-[01:21:29] [Server thread/INFO]: <DeusVuIt> doggo
-[01:28:50] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:28:50] [Server thread/INFO]: BurlapDude left the game
-[01:31:31] [User Authenticator #7/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
-[01:31:31] [Server thread/INFO]: BurlapDude[/93.133.32.138:52928] logged in with entity id 281459 at (-3399.6311065290206, 39.828387518197644, -235.51249998807907)
-[01:31:31] [Server thread/INFO]: BurlapDude joined the game
-[01:32:20] [Server thread/INFO]: BurlapDude fell from a high place
-[01:35:59] [Server thread/INFO]: [BurlapDude: Set own game mode to Creative Mode]
-[01:37:12] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
-[01:48:02] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:48:02] [Server thread/INFO]: BurlapDude left the game
-[01:48:12] [User Authenticator #8/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
-[01:48:12] [Server thread/INFO]: BurlapDude[/93.133.32.138:53002] logged in with entity id 303943 at (-3399.2025578245266, 65.0, -252.83780534556138)
-[01:48:12] [Server thread/INFO]: BurlapDude joined the game
-[01:59:04] [Server thread/INFO]: <DeusVuIt> w
-[02:07:37] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:07:37] [Server thread/INFO]: BurlapDude left the game
-[02:07:49] [User Authenticator #9/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
-[02:07:49] [Server thread/INFO]: BurlapDude[/93.133.32.138:53184] logged in with entity id 333090 at (-3405.7108459278224, 80.0, -280.4466628750658)
-[02:07:49] [Server thread/INFO]: BurlapDude joined the game
-[02:10:00] [Server thread/INFO]: DeusVuIt fell from a high place
-[02:21:38] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:21:38] [Server thread/INFO]: BurlapDude left the game
+[12:58:33] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[12:58:33] [Server thread/INFO]: Loading properties
+[12:58:33] [Server thread/INFO]: Default game type: SURVIVAL
+[12:58:33] [Server thread/INFO]: Generating keypair
+[12:58:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:58:33] [Server thread/INFO]: Using default channel type
+[12:58:33] [Server thread/INFO]: Preparing level "Penisnase"
+[12:58:33] [Server thread/INFO]: Preparing start region for level 0
+[12:58:34] [Server thread/INFO]: Preparing spawn area: 57%
+[12:58:35] [Server thread/INFO]: Done (1,369s)! For help, type "help" or "?"
+[13:00:25] [User Authenticator #1/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
+[13:00:25] [Server thread/INFO]: Babason[/95.91.232.61:24511] logged in with entity id 226 at (-3413.9882785723594, 130.0, -312.4586191918353)
+[13:00:25] [Server thread/INFO]: Babason joined the game
+[13:01:33] [Server thread/INFO]: --- Showing help page 3 of 9 (/help <page>) ---
+[13:01:33] [Server thread/INFO]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <data> <command>
+[13:01:33] [Server thread/INFO]: /fill <x1> <y1> <z1> <x2> <y2> <z2> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+[13:01:33] [Server thread/INFO]: /gamemode <mode> [player]
+[13:01:33] [Server thread/INFO]: /gamerule <rule name> [value]
+[13:01:33] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[13:01:33] [Server thread/INFO]: /help [page|command name]
+[13:01:33] [Server thread/INFO]: /kick <player> [reason ...]
+[13:01:56] [Server thread/INFO]: --- Showing help page 4 of 9 (/help <page>) ---
+[13:01:56] [Server thread/INFO]: /kill [player|entity]
+[13:01:56] [Server thread/INFO]: /list
+[13:01:56] [Server thread/INFO]: /me <action ...>
+[13:01:56] [Server thread/INFO]: /op <player>
+[13:01:56] [Server thread/INFO]: /pardon <name>
+[13:01:56] [Server thread/INFO]: /pardon-ip <address>
+[13:01:56] [Server thread/INFO]: /particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode] [player] [params]
+[13:02:14] [Server thread/INFO]: --- Showing help page 5 of 9 (/help <page>) ---
+[13:02:14] [Server thread/INFO]: /playsound <sound> <source> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[13:02:14] [Server thread/INFO]: /replaceitem <entity|block> ...
+[13:02:14] [Server thread/INFO]: /save-all
+[13:02:14] [Server thread/INFO]: /save-off
+[13:02:14] [Server thread/INFO]: /save-on
+[13:02:14] [Server thread/INFO]: /say <message ...>
+[13:02:14] [Server thread/INFO]: /scoreboard <objectives|players|teams> ...
+[13:02:44] [Server thread/INFO]: Saving is already turned on
+[13:02:53] [Server thread/INFO]: --- Showing help page 6 of 9 (/help <page>) ---
+[13:02:53] [Server thread/INFO]: /seed
+[13:02:53] [Server thread/INFO]: /setblock <x> <y> <z> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+[13:02:53] [Server thread/INFO]: /setidletimeout <Minutes until kick>
+[13:02:53] [Server thread/INFO]: /setworldspawn [<x> <y> <z>]
+[13:02:53] [Server thread/INFO]: /spawnpoint [player] [<x> <y> <z>]
+[13:02:53] [Server thread/INFO]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+[13:02:53] [Server thread/INFO]: /stats <entity|block> ...
+[13:03:13] [Server thread/INFO]: --- Showing help page 7 of 9 (/help <page>) ---
+[13:03:13] [Server thread/INFO]: /stop
+[13:03:13] [Server thread/INFO]: /stopsound <player> [source] [sound]
+[13:03:13] [Server thread/INFO]: /summon <EntityName> [x] [y] [z] [dataTag]
+[13:03:13] [Server thread/INFO]: /teleport <entity> <x> <y> <z> [<y-rot> <x-rot>]
+[13:03:13] [Server thread/INFO]: /tell <player> <private message ...>
+[13:03:13] [Server thread/INFO]: /tellraw <player> <raw json message>
+[13:03:13] [Server thread/INFO]: /testfor <player> [dataTag]
+[13:03:36] [Server thread/INFO]: You whisper to Babason: HALLO
+[13:03:39] [Server thread/INFO]: <Babason> sieg
+[13:03:55] [Server thread/INFO]: --- Showing help page 8 of 9 (/help <page>) ---
+[13:03:55] [Server thread/INFO]: /testforblock <x> <y> <z> <TileName> [dataValue] [dataTag]
+[13:03:55] [Server thread/INFO]: /testforblocks <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [mode]
+[13:03:55] [Server thread/INFO]: /time <set|add|query> <value>
+[13:03:55] [Server thread/INFO]: /title <player> <title|subtitle|clear|reset|times> ...
+[13:03:55] [Server thread/INFO]: /toggledownfall
+[13:03:55] [Server thread/INFO]: /tp [target player] <destination player> OR /tp [target player] <x> <y> <z> [<yaw> <pitch>]
+[13:03:55] [Server thread/INFO]: /trigger <objective> <add|set> <value>
+[13:04:44] [Server thread/INFO]: --- Showing help page 9 of 9 (/help <page>) ---
+[13:04:44] [Server thread/INFO]: /weather <clear|rain|thunder> [duration in seconds]
+[13:04:44] [Server thread/INFO]: /whitelist <on|off|list|add|remove|reload>
+[13:04:44] [Server thread/INFO]: /worldborder <set|center|damage|warning|get|add> ...
+[13:04:44] [Server thread/INFO]: /xp <amount> [player] OR /xp <amount>L [player]
+[13:30:39] [Server thread/INFO]: <Babason> server
+[13:34:22] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:34:22] [Server thread/INFO]: Babason left the game
+[13:34:39] [User Authenticator #2/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
+[13:34:39] [Server thread/INFO]: Babason[/95.91.232.61:7180] logged in with entity id 58659 at (-3483.8367453809533, 64.0, -559.5043604486962)
+[13:34:39] [Server thread/INFO]: Babason joined the game
+[13:36:48] [User Authenticator #3/INFO]: UUID of player STERN_OK is 4d4f1208-fc54-4a7d-bc15-d561d74e5e49
+[13:36:48] [Server thread/INFO]: STERN_OK[/91.38.173.128:49844] logged in with entity id 61376 at (-3331.5119484704737, 78.0, -311.18408554142724)
+[13:36:48] [Server thread/INFO]: STERN_OK joined the game
+[13:38:41] [Server thread/INFO]: [Server] yo oliver
+[13:38:47] [Server thread/INFO]: <Babason> yudas
+[13:38:49] [Server thread/INFO]: <STERN_OK> jo fick dich :D
+[13:38:51] [Server thread/INFO]: <STERN_OK> morgen!
+[13:39:02] [Server thread/INFO]: <STERN_OK> oleander/olex/trottelinchen
+[13:39:06] [Server thread/INFO]: <STERN_OK> aber nicht "oliver"
+[13:39:11] [Server thread/INFO]: <Babason> gaysd
+[13:39:30] [Server thread/INFO]: [Server] okk
+[13:39:37] [Server thread/INFO]: <STERN_OK> nicht böse gemeint
+[13:39:39] [Server thread/INFO]: <STERN_OK> alles klar?
+[13:39:58] [Server thread/INFO]: [Server] yo yo
+[13:40:05] [Server thread/INFO]: [Server] alles COOL
+[13:40:16] [Server thread/INFO]: <STERN_OK> hört man gerne
+[13:40:20] [Server thread/INFO]: <STERN_OK> spielst du auch mit?
+[13:40:24] [Server thread/INFO]: <STERN_OK> oder hostest du nur?
+[13:40:29] [Server thread/INFO]: [Server] erstmal nur hosten
+[13:40:34] [Server thread/INFO]: [Server] komme aber bald
+[13:40:41] [Server thread/INFO]: Saving...
+[13:40:41] [Server thread/INFO]: Saved the world
+[13:41:22] [Server thread/INFO]: <Babason> doofer dennis
+[13:41:26] [Server thread/INFO]: <Babason> >:(
+[13:52:50] [Server thread/INFO]: <Babason> DOOF
+[13:53:10] [Server thread/INFO]: <STERN_OK> geduld mein sehr junger padavan
+[13:53:19] [Server thread/INFO]: <STERN_OK> ja du hast richtig gehört
+[13:53:24] [Server thread/INFO]: <STERN_OK> du bist ein mexikanischer padavan
+[14:10:23] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:10:23] [Server thread/INFO]: Babason left the game
+[14:12:46] [Server thread/INFO]: STERN_OK lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:12:46] [Server thread/INFO]: STERN_OK left the game
+[14:51:06] [User Authenticator #4/INFO]: UUID of player DeusVuIt is 5d3a52cc-ccc8-4bbc-ada3-eb26249de3cd
+[14:51:06] [Server thread/INFO]: DeusVuIt[/127.0.0.1:49945] logged in with entity id 117691 at (-3444.159664219096, 97.0, -335.4258013150671)
+[14:51:06] [Server thread/INFO]: DeusVuIt joined the game
+[15:04:11] [Server thread/INFO]: DeusVuIt lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:04:11] [Server thread/INFO]: DeusVuIt left the game
+[15:14:00] [User Authenticator #5/INFO]: UUID of player DeusVuIt is 5d3a52cc-ccc8-4bbc-ada3-eb26249de3cd
+[15:14:00] [Server thread/INFO]: DeusVuIt[/127.0.0.1:50075] logged in with entity id 129581 at (-3448.6169066654597, 93.0, -330.9489814612937)
+[15:14:00] [Server thread/INFO]: DeusVuIt joined the game
+[15:34:06] [User Authenticator #6/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
+[15:34:06] [Server thread/INFO]: BurlapDude[/93.133.48.213:54800] logged in with entity id 148886 at (-3399.324627126083, 64.0, -352.20068803300893)
+[15:34:06] [Server thread/INFO]: BurlapDude joined the game
+[15:48:34] [Server thread/INFO]: DeusVuIt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:48:34] [Server thread/INFO]: DeusVuIt left the game
+[16:02:34] [Server thread/INFO]: BurlapDude lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:02:34] [Server thread/INFO]: BurlapDude left the game
+[16:04:14] [User Authenticator #7/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
+[16:04:14] [Server thread/INFO]: BurlapDude[/93.133.48.213:55055] logged in with entity id 179534 at (-3397.4475460639633, 80.0, -284.87829262401414)
+[16:04:14] [Server thread/INFO]: BurlapDude joined the game
+[16:06:09] [Server thread/INFO]: BurlapDude lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:06:09] [Server thread/INFO]: BurlapDude left the game
+[16:07:49] [User Authenticator #8/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
+[16:07:49] [Server thread/INFO]: BurlapDude[/93.133.48.213:55061] logged in with entity id 181632 at (-3399.6909094921325, 80.0, -279.4922486110224)
+[16:07:49] [Server thread/INFO]: BurlapDude joined the game
+[16:11:40] [User Authenticator #9/INFO]: UUID of player DeusVuIt is 5d3a52cc-ccc8-4bbc-ada3-eb26249de3cd
+[16:11:40] [Server thread/INFO]: DeusVuIt[/127.0.0.1:50134] logged in with entity id 186034 at (-3437.8766373633634, 93.0, -330.45187372273193)
+[16:11:40] [Server thread/INFO]: DeusVuIt joined the game
+[16:17:13] [User Authenticator #10/INFO]: UUID of player STERN_OK is 4d4f1208-fc54-4a7d-bc15-d561d74e5e49
+[16:17:13] [Server thread/INFO]: STERN_OK[/91.38.173.128:50590] logged in with entity id 193258 at (-3366.5668750208524, 81.5, -295.37057935815517)
+[16:17:13] [Server thread/INFO]: STERN_OK joined the game
+[16:18:54] [Server thread/INFO]: <DeusVuIt> ttttttttt
+[16:18:57] [Server thread/INFO]: <STERN_OK> zzzzzzzzzzz
+[16:28:27] [Server thread/INFO]: BurlapDude lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:28:27] [Server thread/INFO]: BurlapDude left the game
+[16:29:38] [User Authenticator #11/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
+[16:29:38] [Server thread/INFO]: BurlapDude[/93.133.48.213:55186] logged in with entity id 212591 at (-3374.1949130263974, 77.9375, -294.9008887914752)
+[16:29:38] [Server thread/INFO]: BurlapDude joined the game
+[16:30:59] [Server thread/WARN]: BurlapDude moved too quickly! 0.0,-11.19886200217772,0.14783166740983233
+[16:33:54] [Server thread/WARN]: BurlapDude moved wrongly!
+[16:34:52] [Server thread/INFO]: STERN_OK lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:34:52] [Server thread/INFO]: STERN_OK left the game
+[16:37:36] [Server thread/INFO]: DeusVuIt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:37:36] [Server thread/INFO]: DeusVuIt left the game
+[16:37:52] [User Authenticator #12/INFO]: UUID of player STERN_OK is 4d4f1208-fc54-4a7d-bc15-d561d74e5e49
+[16:37:52] [Server thread/INFO]: STERN_OK[/91.38.173.128:50742] logged in with entity id 222373 at (-3365.1925789925867, 63.0, -308.96412671329017)
+[16:37:52] [Server thread/INFO]: STERN_OK joined the game
+[16:45:08] [User Authenticator #13/INFO]: UUID of player DeusVuIt is 5d3a52cc-ccc8-4bbc-ada3-eb26249de3cd
+[16:45:08] [Server thread/INFO]: DeusVuIt[/127.0.0.1:50260] logged in with entity id 236413 at (-3447.457747658977, 103.0, -333.5861947773152)
+[16:45:08] [Server thread/INFO]: DeusVuIt joined the game
+[16:47:18] [Server thread/INFO]: STERN_OK was slain by BurlapDude
+[16:47:23] [Server thread/INFO]: STERN_OK lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:47:23] [Server thread/INFO]: STERN_OK left the game
+[16:50:42] [User Authenticator #14/INFO]: UUID of player STERN_OK is 4d4f1208-fc54-4a7d-bc15-d561d74e5e49
+[16:50:42] [Server thread/INFO]: STERN_OK[/91.38.173.128:50820] logged in with entity id 243948 at (-3353.4511755533936, 78.0, -303.72454000567956)
+[16:50:42] [Server thread/INFO]: STERN_OK joined the game
+[16:50:58] [Server thread/INFO]: Saving...
+[16:50:58] [Server thread/INFO]: Saved the world
+[16:51:05] [Server thread/INFO]: BurlapDude was slain by Spider
+[16:51:54] [Server thread/INFO]: <STERN_OK> lvl 0... nice stuff
+[16:51:58] [Server thread/INFO]: <STERN_OK> i'm out cu o7
+[16:52:01] [Server thread/INFO]: STERN_OK lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:52:01] [Server thread/INFO]: STERN_OK left the game
+[16:55:26] [Server thread/INFO]: [BurlapDude: Set own game mode to Creative Mode]
+[16:56:36] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[16:57:09] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[16:57:20] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[16:57:34] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[16:57:38] [Server thread/INFO]: [BurlapDude: Set own game mode to Creative Mode]
+[16:57:51] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[17:07:40] [Server thread/INFO]: [BurlapDude: Set own game mode to Creative Mode]
+[17:07:57] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[17:11:58] [Server thread/INFO]: [BurlapDude: Set own game mode to Creative Mode]
+[17:13:36] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[17:13:59] [Server thread/INFO]: [BurlapDude: Set own game mode to Creative Mode]
+[17:14:56] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[17:19:29] [Server thread/INFO]: [BurlapDude: Teleported BurlapDude to DeusVuIt]
+[17:23:02] [Server thread/INFO]: [BurlapDude: Set own game mode to Creative Mode]
+[17:25:54] [Server thread/WARN]: Horse moved wrongly!
+[17:25:54] [Server thread/WARN]: Horse moved wrongly!
+[17:26:05] [Server thread/WARN]: Horse moved wrongly!
+[17:26:05] [Server thread/WARN]: Horse moved wrongly!
+[17:26:05] [Server thread/WARN]: Horse moved wrongly!
+[17:26:34] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[17:29:24] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:29:24] [Server thread/INFO]: BurlapDude left the game
+[17:29:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c6fb3fa[id=<null>,name=BurlapDude,properties={},legacy=false] (/93.133.48.213:55255) lost connection: Disconnected
+[17:41:16] [User Authenticator #15/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
+[17:41:16] [Server thread/INFO]: Babason[/95.91.232.61:24502] logged in with entity id 341666 at (-3395.2205207700495, 64.0, -359.69999998807907)
+[17:41:16] [Server thread/INFO]: Babason joined the game
+[17:44:47] [Server thread/WARN]: Horse moved wrongly!
+[17:44:47] [Server thread/WARN]: Horse moved wrongly!
+[17:54:48] [Server thread/WARN]: Babason moved too quickly! 2993.2594827737585,19.0,226.05948278567917
+[18:01:37] [User Authenticator #16/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
+[18:01:37] [Server thread/INFO]: BurlapDude[/93.133.48.213:55379] logged in with entity id 379709 at (-3447.699999988079, 107.0, -338.2361289401381)
+[18:01:37] [Server thread/INFO]: BurlapDude joined the game
+[18:05:11] [Server thread/WARN]: BurlapDude moved wrongly!
+[18:06:44] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:06:44] [Server thread/INFO]: Babason left the game
+[18:08:41] [User Authenticator #17/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
+[18:08:41] [Server thread/INFO]: Babason[/95.91.232.61:7193] logged in with entity id 392123 at (-330.30000001192093, 44.0, -249.6738129954284)
+[18:08:41] [Server thread/INFO]: Babason joined the game
+[18:15:06] [Server thread/INFO]: BurlapDude has just earned the achievement [Repopulation]
+[18:38:57] [Server thread/INFO]: [BurlapDude: Teleported Babason to BurlapDude]
+[18:48:53] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:48:53] [Server thread/INFO]: BurlapDude left the game
+[18:50:06] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:50:06] [Server thread/INFO]: Babason left the game
+[19:00:36] [User Authenticator #18/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
+[19:00:36] [Server thread/INFO]: Babason[/95.91.232.61:7214] logged in with entity id 490567 at (-3393.590170568025, 67.0625, -357.4151274367954)
+[19:00:36] [Server thread/INFO]: Babason joined the game
+[19:00:58] [Server thread/INFO]: <Babason> Hallo, liebe Fäns. Trololol
+[19:10:44] [User Authenticator #19/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
+[19:10:44] [Server thread/INFO]: BurlapDude[/93.133.48.213:55470] logged in with entity id 506654 at (-3384.521055398351, 53.875, -350.5665230787321)
+[19:10:44] [Server thread/INFO]: BurlapDude joined the game
+[19:11:03] [Server thread/INFO]: /93.133.48.213:55469 lost connection: Disconnected
+[19:29:09] [Server thread/INFO]: <DeusVuIt> hallo und willkommen zu meinem lets play
+[19:29:15] [Server thread/INFO]: <Babason> die sonne scheint
+[19:29:20] [Server thread/INFO]: <Babason> das gras ist grün
+[19:45:37] [Server thread/INFO]: <DeusVuIt> weed
+[19:46:13] [Server thread/INFO]: [Server] zzz
+[19:46:16] [Server thread/INFO]: <DeusVuIt> zzz
+[19:46:38] [Server thread/INFO]: [Server] wow dennis wirklich cool
+[19:46:41] [Server thread/INFO]: <DeusVuIt> danke
+[19:46:53] [Server thread/INFO]: <Babason> das täuscht ._.
+[20:05:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5019ms behind, skipping 100 tick(s)
+[20:05:24] [Server thread/WARN]: Babason moved too quickly! -2202.3236743274592,-5.0,-3160.343926076822
+[20:05:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3847ms behind, skipping 76 tick(s)
+[20:06:36] [Server thread/INFO]: <Babason> -2520 , -3600
+[20:10:56] [Server thread/INFO]: DeusVuIt burned to death
+[20:13:55] [Server thread/INFO]: DeusVuIt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:13:55] [Server thread/INFO]: DeusVuIt left the game
+[20:18:22] [User Authenticator #20/INFO]: UUID of player DeusVuIt is 5d3a52cc-ccc8-4bbc-ada3-eb26249de3cd
+[20:18:22] [Server thread/INFO]: DeusVuIt[/127.0.0.1:50813] logged in with entity id 629897 at (-3433.8438153247293, 88.0, -319.48036183794216)
+[20:18:22] [Server thread/INFO]: DeusVuIt joined the game
+[20:37:07] [Server thread/INFO]: DeusVuIt was shot by Skeleton
+[20:52:04] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:52:04] [Server thread/INFO]: Babason left the game
+[20:52:12] [User Authenticator #21/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
+[20:52:12] [Server thread/INFO]: Babason[/95.91.232.61:7208] logged in with entity id 691811 at (-3443.76148712609, 76.0, -342.69999998807907)
+[20:52:12] [Server thread/INFO]: Babason joined the game
+[20:56:39] [Server thread/INFO]: Babason has just earned the achievement [Repopulation]
+[21:09:49] [Server thread/INFO]: BurlapDude hit the ground too hard
+[21:13:23] [User Authenticator #22/INFO]: UUID of player STERN_OK is 4d4f1208-fc54-4a7d-bc15-d561d74e5e49
+[21:13:23] [Server thread/INFO]: STERN_OK[/91.38.173.128:51778] logged in with entity id 718992 at (-3356.572877187767, 78.0, -300.8432703345325)
+[21:13:23] [Server thread/INFO]: STERN_OK joined the game
+[21:14:10] [Server thread/INFO]: DeusVuIt fell from a high place
+[21:25:20] [Server thread/INFO]: <DeusVuIt> lawer
+[21:33:26] [Server thread/INFO]: <DeusVuIt> zett
+[21:34:23] [Server thread/INFO]: <DeusVuIt> bitte
+[21:34:23] [Server thread/INFO]: <STERN_OK> liege
+[21:34:43] [Server thread/INFO]: <STERN_OK> höre musik...
+[21:35:35] [Server thread/INFO]: <STERN_OK> danke
+[21:35:47] [Server thread/INFO]: <STERN_OK> habt ihr zu viel glowstone?
+[21:36:02] [Server thread/INFO]: <STERN_OK> was jetzt?
+[21:36:25] [Server thread/INFO]: <STERN_OK> wo ist das?
+[21:36:37] [Server thread/INFO]: <STERN_OK> LESE!!!
+[21:43:02] [Server thread/INFO]: <STERN_OK> ...
+[21:46:52] [Server thread/INFO]: <STERN_OK> bin in nicht in der nähe
+[21:49:17] [Server thread/WARN]: DeusVuIt moved too quickly! 3036.1980522835943,5.0,290.484418364122
+[21:52:03] [Server thread/INFO]: <STERN_OK> ja
+[21:52:27] [Server thread/INFO]: <STERN_OK> liege
+[21:52:31] [Server thread/INFO]: <DeusVuIt> a
+[21:57:24] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:57:24] [Server thread/INFO]: Babason left the game
+[22:00:26] [Server thread/WARN]: DeusVuIt moved too quickly! 3007.443844424462,-19.0,279.5492445089375
+[22:00:45] [Server thread/WARN]: DeusVuIt moved too quickly! -3007.4527013972684,19.0,-278.1039080400807
+[22:01:04] [Server thread/WARN]: DeusVuIt moved too quickly! 3007.634781908269,-19.0,278.02174463848075
+[22:01:11] [User Authenticator #23/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
+[22:01:11] [Server thread/INFO]: Babason[/95.91.232.61:7200] logged in with entity id 809675 at (-3394.1302401347907, 64.0, -358.3354169558695)
+[22:01:11] [Server thread/INFO]: Babason joined the game
+[22:01:18] [Server thread/INFO]: [BurlapDude: Teleported BurlapDude to DeusVuIt]
+[22:01:34] [Server thread/WARN]: DeusVuIt moved too quickly! -3007.4859133757564,19.0,-277.93650846664895
+[22:04:21] [Server thread/INFO]: <DeusVuIt> hallo schlafen
+[22:04:31] [Server thread/INFO]: <STERN_OK> oliver...
+[22:04:35] [Server thread/INFO]: <STERN_OK> dödel:)
+[22:07:53] [Server thread/INFO]: DeusVuIt fell from a high place
+[22:09:25] [Server thread/INFO]: <STERN_OK> xp farm bauen
+[22:10:23] [Server thread/INFO]: <STERN_OK> was? ob ich die xp farm in der luft baue?
+[22:10:31] [Server thread/INFO]: <STERN_OK> zeig mir einen spawner der in der luft ist
+[22:10:39] [Server thread/INFO]: <STERN_OK> nee
+[22:10:42] [Server thread/INFO]: <STERN_OK> langweilig
+[22:10:52] [Server thread/INFO]: <STERN_OK> und zu aufwändig tbh
+[22:11:30] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:11:30] [Server thread/INFO]: Babason left the game
+[22:11:33] [Server thread/INFO]: <STERN_OK> sie ist 200 blöcke weit weg
+[22:12:07] [User Authenticator #24/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
+[22:12:07] [Server thread/INFO]: Babason[/95.91.232.61:24511] logged in with entity id 877226 at (-414.37217006330104, 81.0, -61.69999998807907)
+[22:12:07] [Server thread/INFO]: Babason joined the game
+[22:17:44] [Server thread/INFO]: <DeusVuIt> schlafeb
+[22:19:34] [Server thread/WARN]: Babason moved too quickly! 3007.742293465012,-19.0,277.8383478154628
+[22:27:19] [Server thread/WARN]: Babason moved too quickly! 3007.8954960570163,-19.0,279.0639685514959
+[22:31:59] [Server thread/INFO]: <DeusVuIt> hallo schlafen
+[22:32:17] [Server thread/INFO]: <STERN_OK> jo liege schon
+[22:36:09] [Server thread/INFO]: <STERN_OK> ich hör erstmal auf, viel spaß noch o7
+[22:36:12] [Server thread/INFO]: STERN_OK lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:36:12] [Server thread/INFO]: STERN_OK left the game
+[22:36:15] [Server thread/INFO]: <DeusVuIt> 07
+[22:37:46] [Server thread/WARN]: BurlapDude moved wrongly!
+[22:39:06] [Server thread/WARN]: Babason moved too quickly! 3007.6643270168934,-19.0,277.2146162305156
+[22:48:25] [Server thread/INFO]: <DeusVuIt> sc
+[22:50:53] [Server thread/WARN]: DeusVuIt moved too quickly! 3006.9391514841923,-19.0,271.928671784089
+[22:51:48] [Server thread/WARN]: DeusVuIt moved too quickly! -3008.0591315839833,19.0,-282.17305265994673
+[23:06:51] [Server thread/INFO]: [BurlapDude: Set own game mode to Creative Mode]
+[23:08:12] [Server thread/INFO]: [BurlapDude: Set own game mode to Spectator Mode]
+[23:08:37] [Server thread/INFO]: [BurlapDude: Set own game mode to Adventure Mode]
+[23:08:54] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[23:15:55] [Server thread/INFO]: <Babason> zzz
+[23:16:27] [Server thread/INFO]: <BurlapDude> huren
+[23:16:31] [Server thread/INFO]: <BurlapDude> zohn
+[23:16:42] [Server thread/INFO]: [BurlapDude: Set own game mode to Creative Mode]
+[23:17:00] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[23:19:15] [Server thread/INFO]: DeusVuIt fell from a high place
+[23:20:49] [Server thread/INFO]: Babason fell from a high place
+[23:37:16] [Server thread/INFO]: <DeusVuIt> o7
+[23:37:33] [Server thread/INFO]: DeusVuIt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:37:33] [Server thread/INFO]: DeusVuIt left the game
+[23:38:03] [Server thread/INFO]: Saving...
+[23:38:03] [Server thread/INFO]: Saved the world
+[23:40:04] [Server thread/INFO]: [Server] hallo ich m”chte bitte stoppen
+[23:40:14] [Server thread/INFO]: <BurlapDude> dann push server einmal
+[23:40:19] [Server thread/INFO]: <BurlapDude> also in die repo
+[23:40:25] [Server thread/INFO]: [Server] ja
+[23:40:33] [Server thread/INFO]: [Server] sarf ich stoppieren
+[23:40:47] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:40:47] [Server thread/INFO]: Babason left the game
+[23:40:49] [Server thread/INFO]: <BurlapDude> ja
+[23:40:51] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:40:51] [Server thread/INFO]: BurlapDude left the game
+[23:40:55] [Server thread/INFO]: Saving...
+[23:40:55] [Server thread/INFO]: Saved the world
+[23:40:58] [Server thread/INFO]: Stopping the server
+[23:40:59] [Server thread/INFO]: Stopping server
+[23:40:59] [Server thread/INFO]: Saving players
+[23:40:59] [Server thread/INFO]: Saving worlds
+[23:40:59] [Server thread/INFO]: Saving chunks for level 'Penisnase'/Overworld
+[23:40:59] [Server thread/INFO]: Saving chunks for level 'Penisnase'/Nether
+[23:40:59] [Server thread/INFO]: Saving chunks for level 'Penisnase'/The End
+[23:40:59] [Server Shutdown Thread/INFO]: Stopping server
+[23:40:59] [Server Shutdown Thread/INFO]: Saving players
+[23:40:59] [Server Shutdown Thread/INFO]: Saving worlds
+[23:40:59] [Server Shutdown Thread/INFO]: Saving chunks for level 'Penisnase'/Overworld
+[23:40:59] [Server Shutdown Thread/INFO]: Saving chunks for level 'Penisnase'/Nether
+[23:40:59] [Server Shutdown Thread/INFO]: Saving chunks for level 'Penisnase'/The End
