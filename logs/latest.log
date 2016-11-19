@@ -1,0 +1,68 @@
+[00:04:03] [Server thread/INFO]: <DeusVuIt> bett
+[00:04:08] [Server thread/INFO]: <DeusVuIt> ?(??´)?
+[00:04:10] [Server thread/INFO]: <DeusVuIt> ??(??´)??
+[00:04:14] [Server thread/INFO]: <DeusVuIt> (???´?;)
+[00:04:16] [Server thread/INFO]: <DeusVuIt> ?(?0´)?
+[00:04:18] [Server thread/INFO]: <DeusVuIt> ?\?(?`^´?)?/?
+[00:04:20] [Server thread/INFO]: <DeusVuIt> ?(??´)?
+[00:04:22] [Server thread/INFO]: <DeusVuIt> ?(????´)??
+[00:04:23] [Server thread/INFO]: <DeusVuIt> (???´)?
+[00:04:30] [Server thread/INFO]: <DeusVuIt> w
+[00:04:31] [Server thread/INFO]: <DeusVuIt> dddd
+[00:04:33] [Server thread/INFO]: <DeusVuIt> aaa
+[00:04:35] [Server thread/INFO]: <DeusVuIt> sw
+[00:04:36] [Server thread/INFO]: <DeusVuIt> a
+[00:08:07] [Server thread/INFO]: <DeusVuIt> lawer
+[00:09:46] [Server thread/INFO]: Babason tried to swim in lava
+[00:12:11] [Server thread/INFO]: Babason has just earned the achievement [Bake Bread]
+[00:31:13] [Server thread/INFO]: BurlapDude was slain by Silverfish
+[00:36:22] [Server thread/INFO]: BurlapDude was slain by Silverfish
+[00:36:52] [Server thread/INFO]: <DeusVuIt> was slain by Silverfish
+[00:43:43] [Server thread/WARN]: BurlapDude moved wrongly!
+[00:58:01] [Server thread/INFO]: [BurlapDude: Teleported DeusVuIt to BurlapDude]
+[00:58:14] [Server thread/INFO]: <Babason> zZz
+[00:58:25] [Server thread/INFO]: <Babason> ZET ZET ZET
+[01:02:11] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:02:11] [Server thread/INFO]: Babason left the game
+[01:07:01] [Server thread/INFO]: DeusVuIt has just earned the achievement [Hot Topic]
+[01:09:33] [Server thread/INFO]: [Server] a
+[01:09:36] [Server thread/INFO]: --- Showing help page 1 of 9 (/help <page>) ---
+[01:09:36] [Server thread/INFO]: /achievement <give|take> <name|*> [player]
+[01:09:36] [Server thread/INFO]: /ban <name> [reason ...]
+[01:09:36] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[01:09:36] [Server thread/INFO]: /banlist [ips|players]
+[01:09:36] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[01:09:36] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[01:09:36] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[01:09:49] [Server thread/INFO]: --- Showing help page 2 of 9 (/help <page>) ---
+[01:09:49] [Server thread/INFO]: /debug <start|stop>
+[01:09:49] [Server thread/INFO]: /defaultgamemode <mode>
+[01:09:49] [Server thread/INFO]: /deop <player>
+[01:09:49] [Server thread/INFO]: /difficulty <new difficulty>
+[01:09:49] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
+[01:09:49] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
+[01:09:49] [Server thread/INFO]: /entitydata <entity> <dataTag>
+[01:21:29] [Server thread/INFO]: [Server] pupper
+[01:21:29] [Server thread/INFO]: <DeusVuIt> doggo
+[01:28:50] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:28:50] [Server thread/INFO]: BurlapDude left the game
+[01:31:31] [User Authenticator #7/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
+[01:31:31] [Server thread/INFO]: BurlapDude[/93.133.32.138:52928] logged in with entity id 281459 at (-3399.6311065290206, 39.828387518197644, -235.51249998807907)
+[01:31:31] [Server thread/INFO]: BurlapDude joined the game
+[01:32:20] [Server thread/INFO]: BurlapDude fell from a high place
+[01:35:59] [Server thread/INFO]: [BurlapDude: Set own game mode to Creative Mode]
+[01:37:12] [Server thread/INFO]: [BurlapDude: Set own game mode to Survival Mode]
+[01:48:02] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:48:02] [Server thread/INFO]: BurlapDude left the game
+[01:48:12] [User Authenticator #8/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
+[01:48:12] [Server thread/INFO]: BurlapDude[/93.133.32.138:53002] logged in with entity id 303943 at (-3399.2025578245266, 65.0, -252.83780534556138)
+[01:48:12] [Server thread/INFO]: BurlapDude joined the game
+[01:59:04] [Server thread/INFO]: <DeusVuIt> w
+[02:07:37] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:07:37] [Server thread/INFO]: BurlapDude left the game
+[02:07:49] [User Authenticator #9/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
+[02:07:49] [Server thread/INFO]: BurlapDude[/93.133.32.138:53184] logged in with entity id 333090 at (-3405.7108459278224, 80.0, -280.4466628750658)
+[02:07:49] [Server thread/INFO]: BurlapDude joined the game
+[02:10:00] [Server thread/INFO]: DeusVuIt fell from a high place
+[02:21:38] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:21:38] [Server thread/INFO]: BurlapDude left the game
