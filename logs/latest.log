@@ -1,63 +1,43 @@
-[17:46:46] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[17:46:46] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_111]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_111]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_111]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_111]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_111]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_111]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_111]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
-	at ld$2.run(SourceFile:95) [minecraft_server.jar:?]
-[17:46:46] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[17:46:46] [Server thread/INFO]: Loading properties
-[17:46:46] [Server thread/INFO]: Default game type: SURVIVAL
-[17:46:46] [Server thread/INFO]: Generating keypair
-[17:46:46] [Server thread/INFO]: Starting Minecraft server on *:6015
-[17:46:46] [Server thread/INFO]: Using default channel type
-[17:46:46] [Server thread/INFO]: Preparing level "Penisnase"
-[17:46:46] [Server thread/INFO]: Preparing start region for level 0
-[17:46:48] [Server thread/INFO]: Preparing spawn area: 0%
-[17:46:49] [Server thread/INFO]: Preparing spawn area: 25%
-[17:46:50] [Server thread/INFO]: Preparing spawn area: 45%
-[17:46:51] [Server thread/INFO]: Preparing spawn area: 68%
-[17:46:52] [Server thread/INFO]: Preparing spawn area: 92%
-[17:46:52] [Server thread/INFO]: Done (6.149s)! For help, type "help" or "?"
-[17:50:22] [User Authenticator #1/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
-[17:50:22] [Server thread/INFO]: BurlapDude[/127.0.0.1:58862] logged in with entity id 230 at (-3390.536978987172, 65.0, -237.83195707212118)
-[17:50:22] [Server thread/INFO]: BurlapDude joined the game
-[17:50:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4141ms behind, skipping 82 tick(s)
-[17:52:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2074ms behind, skipping 41 tick(s)
-[17:53:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2076ms behind, skipping 41 tick(s)
-[17:56:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
-[18:02:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2211ms behind, skipping 44 tick(s)
-[18:04:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2132ms behind, skipping 42 tick(s)
-[18:06:20] [Server thread/WARN]: BurlapDude moved wrongly!
-[18:06:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2197ms behind, skipping 43 tick(s)
-[18:07:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2040ms behind, skipping 40 tick(s)
-[18:13:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2166ms behind, skipping 43 tick(s)
-[18:14:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2057ms behind, skipping 41 tick(s)
-[18:16:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2094ms behind, skipping 41 tick(s)
-[18:18:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2062ms behind, skipping 41 tick(s)
-[18:19:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2201ms behind, skipping 44 tick(s)
-[18:19:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2169ms behind, skipping 43 tick(s)
-[18:22:08] [Server thread/WARN]: BurlapDude moved wrongly!
-[18:24:20] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:24:20] [Server thread/INFO]: BurlapDude left the game
-[18:24:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2143ms behind, skipping 42 tick(s)
-[18:25:05] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[18:25:08] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[18:25:10] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[18:25:13] [Server thread/INFO]: Stopping the server
-[18:25:13] [Server thread/INFO]: Stopping server
-[18:25:13] [Server thread/INFO]: Saving players
-[18:25:13] [Server thread/INFO]: Saving worlds
-[18:25:13] [Server thread/INFO]: Saving chunks for level 'Penisnase'/Overworld
-[18:25:13] [Server thread/INFO]: Saving chunks for level 'Penisnase'/Nether
-[18:25:13] [Server thread/INFO]: Saving chunks for level 'Penisnase'/The End
-[18:25:13] [Server Shutdown Thread/INFO]: Stopping server
-[18:25:13] [Server Shutdown Thread/INFO]: Saving players
+[20:10:19] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[20:10:19] [Server thread/INFO]: Loading properties
+[20:10:19] [Server thread/INFO]: Default game type: SURVIVAL
+[20:10:19] [Server thread/INFO]: Generating keypair
+[20:10:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:10:19] [Server thread/INFO]: Using default channel type
+[20:10:19] [Server thread/INFO]: Preparing level "Penisnase"
+[20:10:20] [Server thread/INFO]: Preparing start region for level 0
+[20:10:21] [Server thread/INFO]: Preparing spawn area: 59%
+[20:10:21] [Server thread/INFO]: Done (1,367s)! For help, type "help" or "?"
+[20:10:24] [User Authenticator #1/INFO]: UUID of player STERN_OK is 4d4f1208-fc54-4a7d-bc15-d561d74e5e49
+[20:10:24] [Server thread/INFO]: STERN_OK[/91.38.174.249:51293] logged in with entity id 228 at (-3295.250973289268, 109.0, -324.1549901911048)
+[20:10:24] [Server thread/INFO]: STERN_OK joined the game
+[20:10:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2137ms behind, skipping 42 tick(s)
+[20:23:42] [Server thread/WARN]: STERN_OK moved too quickly! 9.826204489965221,-2.0013359791121417,-0.5153861225761602
+[20:24:01] [User Authenticator #2/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
+[20:24:01] [Server thread/INFO]: Babason[/95.91.232.61:7178] logged in with entity id 22877 at (-3403.699999988079, 66.0, -237.30000001192093)
+[20:24:01] [Server thread/INFO]: Babason joined the game
+[20:26:55] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:26:55] [Server thread/INFO]: Babason left the game
+[20:26:59] [User Authenticator #3/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
+[20:26:59] [Server thread/INFO]: Babason[/95.91.232.61:7178] logged in with entity id 29607 at (-3276.9173947479303, 136.0, -341.4874584862183)
+[20:26:59] [Server thread/INFO]: Babason joined the game
+[20:28:27] [Server thread/INFO]: STERN_OK lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:28:27] [Server thread/INFO]: STERN_OK left the game
+[20:30:07] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:30:07] [Server thread/INFO]: Babason left the game
+[20:52:45] [Server thread/INFO]: Saving...
+[20:52:45] [Server thread/INFO]: Saved the world
+[20:53:01] [Server thread/INFO]: [Server] hoppler
+[20:53:20] [Server thread/INFO]: Stopping the server
+[20:53:20] [Server thread/INFO]: Stopping server
+[20:53:20] [Server thread/INFO]: Saving players
+[20:53:20] [Server thread/INFO]: Saving worlds
+[20:53:20] [Server thread/INFO]: Saving chunks for level 'Penisnase'/Overworld
+[20:53:20] [Server thread/INFO]: Saving chunks for level 'Penisnase'/Nether
+[20:53:20] [Server thread/INFO]: Saving chunks for level 'Penisnase'/The End
+[20:53:20] [Server Shutdown Thread/INFO]: Stopping server
+[20:53:20] [Server Shutdown Thread/INFO]: Saving players
+[20:53:20] [Server Shutdown Thread/INFO]: Saving worlds
+[20:53:20] [Server Shutdown Thread/INFO]: Saving chunks for level 'Penisnase'/Overworld
+[20:53:20] [Server Shutdown Thread/INFO]: Saving chunks for level 'Penisnase'/Nether
+[20:53:20] [Server Shutdown Thread/INFO]: Saving chunks for level 'Penisnase'/The End

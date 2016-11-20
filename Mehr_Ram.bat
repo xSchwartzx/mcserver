@@ -1,1 +1,0 @@
-"C:\Users\Raphael\Desktop\Server\Minecraft_Server\minecraft_server.jar" -Xmx1024M -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=2 -XX:+AggressiveOpts -
