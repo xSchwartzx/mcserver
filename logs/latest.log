@@ -1,128 +1,63 @@
-[13:32:22] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[13:32:22] [Server thread/INFO]: Loading properties
-[13:32:22] [Server thread/INFO]: Default game type: SURVIVAL
-[13:32:22] [Server thread/INFO]: Generating keypair
-[13:32:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:32:22] [Server thread/INFO]: Using default channel type
-[13:32:22] [Server thread/INFO]: Preparing level "Penisnase"
-[13:32:23] [Server thread/INFO]: Preparing start region for level 0
-[13:32:24] [Server thread/INFO]: Preparing spawn area: 49%
-[13:32:24] [Server thread/INFO]: Done (1,469s)! For help, type "help" or "?"
-[13:32:39] [User Authenticator #1/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
-[13:32:39] [Server thread/INFO]: Babason[/95.91.232.61:7202] logged in with entity id 227 at (-3442.6524695483467, 76.0, -334.9172068197217)
-[13:32:39] [Server thread/INFO]: Babason joined the game
-[13:34:32] [User Authenticator #2/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
-[13:34:32] [Server thread/INFO]: BurlapDude[/93.133.14.218:57530] logged in with entity id 2559 at (-3400.524860065291, 65.0, -234.30000001192093)
-[13:34:32] [Server thread/INFO]: BurlapDude joined the game
-[13:34:44] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:34:44] [Server thread/INFO]: Babason left the game
-[13:37:12] [User Authenticator #3/INFO]: UUID of player DeusVuIt is 5d3a52cc-ccc8-4bbc-ada3-eb26249de3cd
-[13:37:12] [Server thread/INFO]: DeusVuIt[/127.0.0.1:50427] logged in with entity id 7012 at (-3444.6686560924145, 111.0, -333.6967175276406)
-[13:37:12] [Server thread/INFO]: DeusVuIt joined the game
-[13:41:34] [Server thread/INFO]: DeusVuIt has just earned the achievement [Time to Strike!]
-[13:43:02] [Server thread/INFO]: <DeusVuIt> hallo schlafen
-[13:45:12] [Server thread/INFO]: DeusVuIt has just earned the achievement [Monster Hunter]
-[13:57:44] [User Authenticator #4/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
-[13:57:44] [Server thread/INFO]: Babason[/95.91.232.61:7223] logged in with entity id 36398 at (-3400.4549512090302, 80.0, -281.04675058473856)
-[13:57:44] [Server thread/INFO]: Babason joined the game
-[13:58:46] [Server thread/INFO]: Babason lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:58:46] [Server thread/INFO]: Babason left the game
-[14:04:00] [Server thread/WARN]: Horse moved wrongly!
-[14:04:00] [Server thread/WARN]: Horse moved wrongly!
-[14:04:00] [Server thread/WARN]: Horse moved wrongly!
-[14:04:00] [Server thread/WARN]: Horse moved wrongly!
-[14:04:00] [Server thread/WARN]: Horse moved wrongly!
-[14:04:00] [Server thread/WARN]: Horse moved wrongly!
-[14:04:00] [Server thread/WARN]: Horse moved wrongly!
-[14:04:00] [Server thread/WARN]: Horse moved wrongly!
-[14:13:38] [User Authenticator #5/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
-[14:13:38] [Server thread/INFO]: Babason[/95.91.232.61:7189] logged in with entity id 60472 at (-3400.4549512090302, 80.0, -281.04675058473856)
-[14:13:38] [Server thread/INFO]: Babason joined the game
-[14:18:08] [Server thread/INFO]: DeusVuIt was slain by Zombie
-[14:19:44] [Server thread/WARN]: Horse moved wrongly!
-[14:19:44] [Server thread/WARN]: Horse moved wrongly!
-[14:21:38] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[14:21:38] [Server thread/INFO]: BurlapDude left the game
-[14:42:15] [User Authenticator #6/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
-[14:42:15] [Server thread/INFO]: BurlapDude[/93.133.14.218:57691] logged in with entity id 93478 at (-3397.5327506060767, 80.0, -287.69999998807907)
-[14:42:15] [Server thread/INFO]: BurlapDude joined the game
-[14:51:31] [Server thread/INFO]: DeusVuIt was slain by Enderman
-[15:03:36] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[15:03:36] [Server thread/INFO]: Babason left the game
-[15:03:48] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[15:03:48] [Server thread/INFO]: BurlapDude left the game
-[15:04:13] [User Authenticator #7/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
-[15:04:13] [Server thread/INFO]: Babason[/95.91.232.61:24487] logged in with entity id 128152 at (-2516.5333541569303, 47.0, -3569.6592651807623)
-[15:04:13] [Server thread/INFO]: Babason joined the game
-[15:04:27] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[15:04:27] [Server thread/INFO]: Babason left the game
-[15:05:53] [User Authenticator #8/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
-[15:05:53] [Server thread/INFO]: Babason[/95.91.232.61:24509] logged in with entity id 131005 at (-2516.5333541569303, 47.0, -3569.6592651807623)
-[15:05:53] [Server thread/INFO]: Babason joined the game
-[15:06:07] [User Authenticator #9/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
-[15:06:08] [Server thread/INFO]: BurlapDude[/93.133.14.218:57820] logged in with entity id 131670 at (-2512.5672914194092, 45.0, -3568.694372437406)
-[15:06:08] [Server thread/INFO]: BurlapDude joined the game
-[15:14:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2089ms behind, skipping 41 tick(s)
-[15:15:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8197ms behind, skipping 163 tick(s)
-[15:15:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8225ms behind, skipping 164 tick(s)
-[15:16:30] [Server thread/INFO]: Saving...
-[15:16:30] [Server thread/INFO]: Saved the world
-[15:19:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2280ms behind, skipping 45 tick(s)
-[15:19:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6843ms behind, skipping 136 tick(s)
-[15:19:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3679ms behind, skipping 73 tick(s)
-[15:20:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2604ms behind, skipping 52 tick(s)
-[15:22:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2551ms behind, skipping 51 tick(s)
-[15:23:06] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[15:23:06] [Server thread/INFO]: Babason left the game
-[15:27:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2378ms behind, skipping 47 tick(s)
-[15:28:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2193ms behind, skipping 43 tick(s)
-[15:31:58] [Server thread/INFO]: BurlapDude has just earned the achievement [Hot Topic]
-[15:32:12] [User Authenticator #10/INFO]: UUID of player Babason is 35997027-bf83-4d87-b5f2-51eb474fd294
-[15:32:12] [Server thread/INFO]: Babason[/95.91.232.61:7180] logged in with entity id 190876 at (-2354.4573143156463, 17.0, -3588.6202108123052)
-[15:32:12] [Server thread/INFO]: Babason joined the game
-[15:32:51] [Server thread/INFO]: BurlapDude has just earned the achievement [Acquire Hardware]
-[15:50:29] [Server thread/INFO]: <DeusVuIt> z
-[15:51:10] [Server thread/INFO]: [Server] hallo schlafen
-[15:51:25] [Server thread/INFO]: <Babason> ja mama
-[15:53:41] [Server thread/INFO]: <DeusVuIt> -2520 -3600
-[15:53:56] [Server thread/INFO]: <DeusVuIt> -o7
-[16:05:44] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:05:44] [Server thread/INFO]: BurlapDude left the game
-[16:07:07] [User Authenticator #11/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
-[16:07:07] [Server thread/INFO]: BurlapDude[/93.133.14.218:57974] logged in with entity id 262230 at (-3400.7669711536914, 80.0, -285.4698775819491)
-[16:07:07] [Server thread/INFO]: BurlapDude joined the game
-[16:15:34] [Server thread/INFO]: Babason lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:15:34] [Server thread/INFO]: Babason left the game
-[16:24:32] [Server thread/INFO]: DeusVuIt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:24:32] [Server thread/INFO]: DeusVuIt left the game
-[16:28:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ade1f15[id=<null>,name=DeusVuIt,properties={},legacy=false] (/127.0.0.1:50707) lost connection: Disconnected
-[16:28:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@464f54f2[id=<null>,name=DeusVuIt,properties={},legacy=false] (/127.0.0.1:50709) lost connection: Disconnected
-[16:29:15] [User Authenticator #12/INFO]: UUID of player DeusVuIt is 5d3a52cc-ccc8-4bbc-ada3-eb26249de3cd
-[16:29:15] [Server thread/INFO]: DeusVuIt[/127.0.0.1:50743] logged in with entity id 290108 at (-3434.1192918233905, 111.0, -334.5409119339736)
-[16:29:15] [Server thread/INFO]: DeusVuIt joined the game
-[16:36:15] [Server thread/INFO]: DeusVuIt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:36:15] [Server thread/INFO]: DeusVuIt left the game
-[16:38:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@7ee91f87[id=<null>,name=DeusVuIt,properties={},legacy=false] (/127.0.0.1:50761) lost connection: Disconnected
-[16:38:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@1586778a[id=<null>,name=DeusVuIt,properties={},legacy=false] (/127.0.0.1:50765) lost connection: Disconnected
-[16:38:52] [User Authenticator #13/INFO]: UUID of player DeusVuIt is 5d3a52cc-ccc8-4bbc-ada3-eb26249de3cd
-[16:38:52] [Server thread/INFO]: DeusVuIt[/127.0.0.1:50803] logged in with entity id 302996 at (-3389.557556844134, 66.0, -214.39433021815256)
-[16:38:52] [Server thread/INFO]: DeusVuIt joined the game
-[16:42:14] [Server thread/INFO]: DeusVuIt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:42:14] [Server thread/INFO]: DeusVuIt left the game
-[16:43:39] [Server thread/INFO]: Saving...
-[16:43:39] [Server thread/INFO]: Saved the world
-[16:43:45] [Server thread/INFO]: Stopping the server
-[16:43:45] [Server thread/INFO]: Stopping server
-[16:43:45] [Server thread/INFO]: Saving players
-[16:43:45] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Server closed', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:43:45] [Server thread/INFO]: BurlapDude left the game
-[16:43:45] [Server thread/INFO]: Saving worlds
-[16:43:45] [Server thread/INFO]: Saving chunks for level 'Penisnase'/Overworld
-[16:43:45] [Server thread/INFO]: Saving chunks for level 'Penisnase'/Nether
-[16:43:45] [Server thread/INFO]: Saving chunks for level 'Penisnase'/The End
-[16:43:45] [Server Shutdown Thread/INFO]: Stopping server
-[16:43:45] [Server Shutdown Thread/INFO]: Saving players
-[16:43:45] [Server Shutdown Thread/INFO]: Saving worlds
-[16:43:45] [Server Shutdown Thread/INFO]: Saving chunks for level 'Penisnase'/Overworld
-[16:43:45] [Server Shutdown Thread/INFO]: Saving chunks for level 'Penisnase'/Nether
-[16:43:45] [Server Shutdown Thread/INFO]: Saving chunks for level 'Penisnase'/The End
+[17:46:46] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[17:46:46] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_111]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
+	at ld$2.run(SourceFile:95) [minecraft_server.jar:?]
+[17:46:46] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[17:46:46] [Server thread/INFO]: Loading properties
+[17:46:46] [Server thread/INFO]: Default game type: SURVIVAL
+[17:46:46] [Server thread/INFO]: Generating keypair
+[17:46:46] [Server thread/INFO]: Starting Minecraft server on *:6015
+[17:46:46] [Server thread/INFO]: Using default channel type
+[17:46:46] [Server thread/INFO]: Preparing level "Penisnase"
+[17:46:46] [Server thread/INFO]: Preparing start region for level 0
+[17:46:48] [Server thread/INFO]: Preparing spawn area: 0%
+[17:46:49] [Server thread/INFO]: Preparing spawn area: 25%
+[17:46:50] [Server thread/INFO]: Preparing spawn area: 45%
+[17:46:51] [Server thread/INFO]: Preparing spawn area: 68%
+[17:46:52] [Server thread/INFO]: Preparing spawn area: 92%
+[17:46:52] [Server thread/INFO]: Done (6.149s)! For help, type "help" or "?"
+[17:50:22] [User Authenticator #1/INFO]: UUID of player BurlapDude is 493607db-c66e-4cd4-91e2-2dd7567a25fb
+[17:50:22] [Server thread/INFO]: BurlapDude[/127.0.0.1:58862] logged in with entity id 230 at (-3390.536978987172, 65.0, -237.83195707212118)
+[17:50:22] [Server thread/INFO]: BurlapDude joined the game
+[17:50:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4141ms behind, skipping 82 tick(s)
+[17:52:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2074ms behind, skipping 41 tick(s)
+[17:53:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2076ms behind, skipping 41 tick(s)
+[17:56:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
+[18:02:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2211ms behind, skipping 44 tick(s)
+[18:04:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2132ms behind, skipping 42 tick(s)
+[18:06:20] [Server thread/WARN]: BurlapDude moved wrongly!
+[18:06:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2197ms behind, skipping 43 tick(s)
+[18:07:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2040ms behind, skipping 40 tick(s)
+[18:13:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2166ms behind, skipping 43 tick(s)
+[18:14:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2057ms behind, skipping 41 tick(s)
+[18:16:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2094ms behind, skipping 41 tick(s)
+[18:18:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2062ms behind, skipping 41 tick(s)
+[18:19:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2201ms behind, skipping 44 tick(s)
+[18:19:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2169ms behind, skipping 43 tick(s)
+[18:22:08] [Server thread/WARN]: BurlapDude moved wrongly!
+[18:24:20] [Server thread/INFO]: BurlapDude lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:24:20] [Server thread/INFO]: BurlapDude left the game
+[18:24:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2143ms behind, skipping 42 tick(s)
+[18:25:05] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:25:08] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:25:10] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:25:13] [Server thread/INFO]: Stopping the server
+[18:25:13] [Server thread/INFO]: Stopping server
+[18:25:13] [Server thread/INFO]: Saving players
+[18:25:13] [Server thread/INFO]: Saving worlds
+[18:25:13] [Server thread/INFO]: Saving chunks for level 'Penisnase'/Overworld
+[18:25:13] [Server thread/INFO]: Saving chunks for level 'Penisnase'/Nether
+[18:25:13] [Server thread/INFO]: Saving chunks for level 'Penisnase'/The End
+[18:25:13] [Server Shutdown Thread/INFO]: Stopping server
+[18:25:13] [Server Shutdown Thread/INFO]: Saving players
